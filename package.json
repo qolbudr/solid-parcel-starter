@@ -1,0 +1,12 @@
+{
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel --port 3000",
+    "build": "parcel build"
+  },
+  "dependencies": {
+    "babel-preset-solid": "^1.4.8",
+    "parcel": "^2.7.0",
+    "solid-js": "^1.4.8"
+  }
+}
