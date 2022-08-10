@@ -7,7 +7,7 @@ A minimal Solid JS starter with parcel as a build module.
 [![NPM Version](https://img.shields.io/npm/v/solid-js.svg?style=for-the-badge)](https://www.npmjs.com/package/solid-js)
 
  
-<summary>Quick Start</summary>
+## Quick Start
 
 You can get started with a simple app by running the following in your terminal:
 
